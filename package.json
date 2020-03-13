@@ -1,22 +1,25 @@
 {
-  "name": "yunye-fastclick",
-  "version": "1.0.0",
-  "description": "fastclick",
-  "main": "fastclick.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Blists/yunye-fastclick.git"
-  },
-  "keywords": [
-    "fastclick"
-  ],
-  "author": "xwc",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Blists/yunye-fastclick/issues"
-  },
-  "homepage": "https://github.com/Blists/yunye-fastclick#readme"
+    "name": "@yy/yunye-fastclick",
+    "version": "1.0.0",
+    "description": "fastclick",
+    "main": "fastclick.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "publishConfig": {
+        "registry": "http://mvn.yunyesoft.com:8081/nexus/content/repositories/npm-internal/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Blists/yunye-fastclick.git"
+    },
+    "keywords": [
+        "fastclick"
+    ],
+    "author": "xwc",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Blists/yunye-fastclick/issues"
+    },
+    "homepage": "https://github.com/Blists/yunye-fastclick#readme"
 }

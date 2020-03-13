@@ -39,6 +39,9 @@ jspm_packages
 #.DS_Store
 .DS_Store
 
-dist
-package-lock.json
 .history
+.vscode
+
+.svn
+.history
+.idea
